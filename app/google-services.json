@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317920338881",
+    "firebase_url": "https://onlicerymargav-default-rtdb.firebaseio.com",
+    "project_id": "onlicerymargav",
+    "storage_bucket": "onlicerymargav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317920338881:android:36d777a76636ebf2d9c540",
+        "android_client_info": {
+          "package_name": "com.example.onlinegrocerymargav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317920338881-nm813j05apk908t127hvefs8vu8ms4pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GYPKbRULMxyHI_mxunoU2oOnXdk7a8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317920338881-nm813j05apk908t127hvefs8vu8ms4pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
