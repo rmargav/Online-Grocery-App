@@ -2,6 +2,23 @@
 
 **Advance Food Point** is an intuitive and user-friendly Android application for online grocery shopping. Built using **Android Studio**, this app allows users to log in, browse fresh vegetables, and easily add them to their cart for purchase.
 
+## 📸 Screenshots
+
+**Login Page**
+- Simple login with email & password
+- Option to sign up and recover password
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<img src="/img/app.jpeg" alt="App" style="width: 40%; border: 2px solid white;"/>
+</div>
+
+**🛍️ Grocery Page**
+- Add or remove quantity
+- Dynamic price updates (optional)
+- “Add to Cart” button for checkout
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<img src="/img/layout.jpeg" alt="Cart" style="width: 18%; border: 2px solid white;"/>
+</div>
+
 ## 🚀 Features
 
 - 🔐 User Authentication (Login / Sign Up)
@@ -23,15 +40,6 @@
 
 - Java
 - Android SDK
-
-## 📸 Screenshots
-
-**Login Page**
-- Simple login with email & password
-- Option to sign up and recover password
-
-**Grocery Page**
-- Add or remove quantity
-- Dynamic price updates (optional)
-- “Add to Cart” button for checkout
-
+- XML Layouts
+- Shared Preferences
+- RecyclerView
