@@ -13,7 +13,7 @@
 
 **🛍️ Grocery Page**
 - Add or remove quantity
-- Dynamic price updates (optional)
+- Dynamic price updates
 - “Add to Cart” button for checkout
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 <img src="/img/layout.jpeg" alt="Cart" style="width: 18%; border: 2px solid white;"/>
